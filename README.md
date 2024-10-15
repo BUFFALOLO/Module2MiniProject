@@ -3,7 +3,7 @@
 **PROJECT REQUIREMENTS**
 
 **1. User Interface (UI):**
-        - Create a command-line interface (CLI) for the To-Do List Application.
+     - Create a command-line interface (CLI) for the To-Do List Application.
         - Display a welcoming message and a menu with the following options:
             Welcome to the To-Do List App!
 
