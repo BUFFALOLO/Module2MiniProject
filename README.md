@@ -1,6 +1,7 @@
 # Module 2 - Python Basics | Mini Project - To Do List Application
 
 **PROJECT REQUIREMENTS**
+
 **1. User Interface (UI):**
     Create a command-line interface (CLI) for the To-Do List Application.
     Display a welcoming message and a menu with the following options:
